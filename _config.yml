@@ -1,0 +1,23 @@
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Arunav
+middle_name:
+last_name: Chatterjee 🇮🇳
+email: arunavm@aol.com | arunav.c@yahoo.com
+description: Hi, I'm Arunav Chatterjee, and I'm not your typical data analyst. I'm a passionate and adaptable data wizard on a mission to unlock the hidden stories behind the numbers. With over 5 years of experience in spearheading advanced analytics and business intelligence initiatives, I've helped revolutionize industries including retail, BFSI , pharmaceuticals, and healthcare.
+
+But I'm not just a numbers guy. I seamlessly blend cutting-edge data analytics techniques like Power-BI with my natural business acumen to transform valuable data into invaluable business insights that drive success.
+Why settle for dull reports when you can have dynamic, data-driven stories? Join me on LinkedIn as I unravel the secrets hidden in the data, and help businesses make confident, informed decisions. Together, let's build a future where insights drive innovation and inspire real change.
+Are you ready to embark on this data adventure with me? Let's dive in!
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: Data Analytics | Power-BI | SQL | Python | SAS | R  # add your own keywords or leave empty
+
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+url: https://arunav.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
